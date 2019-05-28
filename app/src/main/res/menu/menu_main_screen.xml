@@ -1,0 +1,62 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pavelsobolev.kotogl.Activities.MainScreenActivity">
+    <!--item
+        android:id="@+id/action_2DCurve"
+        android:orderInCategory="100"
+        android:icon="@drawable/curve"
+        android:title="@string/action_settings2DP"
+        app:showAsAction="always" /-->
+    <!--item
+        android:id="@+id/action_2DCurve"
+        android:orderInCategory="100"
+        android:icon="@drawable/curve"
+        android:title="@string/action_settings2DP"
+        app:showAsAction="always" /-->
+    <item
+        android:id="@+id/action_2D"
+        android:orderInCategory="100"
+        android:icon="@drawable/spiral"
+        android:title="@string/action_settings2D"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_3D"
+        android:orderInCategory="101"
+        android:title="@string/action_settings3D"
+        android:icon="@drawable/if_ic_3d_rotation_48px_351995"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_Rotate"
+        android:checkable="true"
+        android:checked="true"
+        android:icon="@drawable/leftright"
+        android:orderInCategory="102"
+        android:title="@string/action_settingRotatDirection"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_Tilt"
+        android:orderInCategory="103"
+        android:title="@string/action_tilt"
+        android:icon="@drawable/rotate"
+        app:showAsAction="always"
+        android:visible="false"/>
+    <item
+        android:id="@+id/action_manual"
+        android:orderInCategory="104"
+        android:title="@string/action_settingsManual"
+        android:icon="@drawable/if_ic_history_48px_352426"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_settingsDistance"
+        android:orderInCategory="105"
+        android:icon="@drawable/if_ic_dashboard_48px_352300"
+        android:title="@string/action_settingPos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_swap_textures"
+        android:orderInCategory="106"
+        android:icon="@drawable/if_3d_touch_2_1504646"
+        android:title="@string/action_swp"
+        app:showAsAction="never" />
+</menu>

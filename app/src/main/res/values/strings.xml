@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">K-OGL</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_settings3D">Show 3D</string>
+    <string name="action_settings2D">Show 2D</string>
+    <string name="action_settings2DP">2D polar coordinates</string>
+    <string name="action_settingsManual">Turn on/of auto-rotation</string>
+    <string name="action_settingRotatDirection">Choose rotation direction</string>
+    <string name="action_settingPos">Change objects distances</string>
+    <string name="action_swp">Swap textures</string>
+    <string name="action_tilt">Accelerometer</string>
+
+    <!-- seekbars labels -->
+    <string name="center_pos_txt">Distance to central body</string>
+    <string name="left_pos_txt">Distance to left cube</string>
+    <string name="right_pos_txt">Distance to right cube</string>
+    <string name="top_pos_txt">Distance to top pyramid</string>
+    <string name="bottom_pos_txt">Distance to bottom pyramid</string>
+    <string name="pos_header">Set distance to the bodies</string>
+
+    <!-- buttons -->
+    <string name="btn_ok">Accept</string>\
+    <string name="btn_cancel">Cancel</string>
+</resources>

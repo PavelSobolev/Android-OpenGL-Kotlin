@@ -6,6 +6,6 @@ The name of application is “K-OGL” (which stands for Kotlin-OpenGL ES). The 
 
 ### User interface and graphical scenes
 
-![UI](https://github.com/PavelSobolev/KotOGL/blob/master/uiimg/01.jpeg) ![UI](https://github.com/PavelSobolev/KotOGL/blob/master/uiimg/02.jpeg) ![UI](https://github.com/PavelSobolev/KotOGL/blob/master/uiimg/01.jpeg) ![UI](https://github.com/PavelSobolev/KotOGL/blob/master/uiimg/03.jpeg) ![UI](https://github.com/PavelSobolev/KotOGL/blob/master/uiimg/04.jpeg)
+![UI](https://github.com/PavelSobolev/KotOGL/blob/master/uiimg/01.jpeg) ![UI](https://github.com/PavelSobolev/KotOGL/blob/master/uiimg/02.jpeg) ![UI](https://github.com/PavelSobolev/KotOGL/blob/master/uiimg/03.jpeg) ![UI](https://github.com/PavelSobolev/KotOGL/blob/master/uiimg/04.jpeg)
 
 [Project description](https://github.com/PavelSobolev/KotOGL/blob/master/720MADReport(OpenGLAndroid).pdf)
